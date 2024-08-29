@@ -1,2 +1,4 @@
 # ext-template
-My go-to template for chrome extension with react
+
+> chrome browser extension goto-template using Vite + React-ts and Manifest v3
+

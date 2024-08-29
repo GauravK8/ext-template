@@ -1,0 +1,10 @@
+@media (prefers-color-scheme: light) {
+}
+
+main {
+  height: 500px;
+
+  div {
+    padding: 0.5rem;
+  }
+}
